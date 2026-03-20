@@ -1,2 +1,3 @@
-# open-travel-planner-c9jn
+# Open Travel Planner C9Jn
+
 A travel planning application for modern development workflows.
